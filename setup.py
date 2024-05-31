@@ -7,7 +7,7 @@ setup(name='PyRoxy',
       license='MIT',
       author="MH_ProDev",
       install_requires=[
-          "maxminddb==2.6.2", "requests==2.32.3", "yarl==1.9.4",
+          "maxminddb==2.6.1", "requests==2.32.3", "yarl==1.9.4",
           "pysocks==1.7.1"
       ],
       include_package_data=True,
